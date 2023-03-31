@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on The front-end technology
 - 📫 How to reach me: panan2001@outlook.com
 - 😄 Pronouns: He/him
-- 🌱 My github when I was in school was：https://github.com/panan183
+- 🌱 My github when I was in school was：https://github.com/panan183panan
 - 😄 This is my github at work！！！
 
