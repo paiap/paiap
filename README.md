@@ -1,4 +1,4 @@
-**paiap/paiap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+this is a ✨ _special_ ✨ repository
 - 🔭 I’m currently working on Hangzhou normal university.
 - 🌱 I’m currently learning vue3 and react Hook && formily
 - 🌱 I’m currently learning webpack and vite
